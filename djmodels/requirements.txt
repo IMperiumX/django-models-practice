@@ -1,6 +1,5 @@
 Django==5.0.6
-
-psycopg2==2.9.9
-
 django-environ==0.11.2
 
+psycopg2==2.9.9
+mysqlclient==2.2.4
